@@ -12,7 +12,7 @@ The AI for single player mode is simple to start with but once the app is comple
 
 This app uses React and tailwind for the frontend and NodeJS, tRPC, and prisma for the backend, using typescript throughout for type-safety.
 
-## Installation ()
+## Installation (WIP - Follow steps 1-3 which are currently accurate, steps 4-7 are currently inaccurate but will become accurate at a later date)
 
 1. ```git clone``` to your machine
 2. Install project dependencies (```npm ci```, or your package manager of choice)
